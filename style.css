@@ -1,0 +1,145 @@
+.half{
+    width:40%;
+    padding:5%;
+    float: left;
+}
+.half1{
+    width:30%;
+    padding:10%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    float: left;
+
+}
+.first{
+    background-color:#FFF9F4;
+}
+
+.logo{
+    height: 39.27px;
+    width: 291.11px;
+}
+img{
+    width: 100%;
+}
+.red{
+    color: #FA804C;
+    font-size: 40px;
+}
+h1{
+    font-size: 50px;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    padding: 14px 25px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(108, 25, 163);
+  }
+  .button{
+    background-color: #3D4FF3;
+    color: white;
+    text-decoration: none;
+    margin-top: 10%;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 700;
+  }
+  
+  
+  .first{
+      height: 715px;
+  }
+  #color{
+      color: #363958;
+      position: absolute;
+      left: 135px;
+      font-family: Bebas Neue;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 48px;
+  }
+  .half3{
+    width: 27%;
+    margin-left: 2%;
+    margin-top: 10%;
+    padding: 2%;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    float: left;
+    height: 560px;
+  }
+  .half3 img{
+      background-color: lightgray;
+      height: 311px;
+      width: 311px;
+      border-radius: 5%;
+  }
+  .second{
+      height: 740px;
+  }
+ .inner{
+     background-color: lightgray;
+     height: 135px;
+     width: 489px;
+     background: #FFFFFF;
+     box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+     border-radius: 20px;
+     float: left;
+     margin: 1%;
+     
+ }
+.half2{
+    width: 235px;
+    padding: 2%;
+    float: left;
+   
+
+}
+.half11 img{
+    padding-bottom: 2%;
+    padding-top: 5%;
+    float: left;
+    height: 82px;
+    width: 78px;
+    padding-left:3%;
+}
+.last{
+    width: 667px;
+    height: 354px;
+    position: absolute;
+    left: 49.1%;
+    right: 9.31%;
+
+
+}
+@media (max-width:992px){
+    li a{
+        font-size:0;
+    }
+    .top>.half{
+        
+        width: 100%;
+    }
+    }
